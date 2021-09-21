@@ -3826,6 +3826,7 @@
 #include "modular_nostra\code\modules\uplink\uplink_items\uplink_bundles.dm"
 #include "modular_nostra\code\modules\uplink\uplink_items\uplink_roles.dm"
 #include "modular_nostra\code\modules\uplink\uplink_items\uplink_stealth.dm"
+#include "modular_nostra\code\game\objects\items\spears.dm"
 #include "modular_sand\code\__DEFINES\language.dm"
 #include "modular_sand\code\__DEFINES\runechat_defines.dm"
 #include "modular_sand\code\__DEFINES\status_effects.dm"
