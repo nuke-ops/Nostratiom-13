@@ -1,3 +1,4 @@
+/* Nostra change - moved it to /modular_nostra
 //Command
 /datum/job/captain
 	alt_titles = list("Colony Overseer")
@@ -95,3 +96,4 @@
 
 /datum/job/mining
 	alt_titles = list("Explorer")
+*/
