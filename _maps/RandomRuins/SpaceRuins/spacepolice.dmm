@@ -1,0 +1,713 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/turf/template_noop,
+/area/template_noop)
+"b" = (
+/turf/open/floor/plating/dirt,
+/area/ruin/space/has_grav/spacepolicepost)
+"c" = (
+/turf/closed/wall,
+/area/ruin/space/has_grav/spacepolicepost)
+"d" = (
+/obj/effect/turf_decal,
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/has_grav/spacepolicepost)
+"e" = (
+/turf/open/floor/plating/asteroid,
+/area/ruin/unpowered/no_grav)
+"f" = (
+/turf/open/floor/grass,
+/area/ruin/space/has_grav/spacepolicepost)
+"h" = (
+/obj/machinery/atmospherics/components/unary/tank/air,
+/turf/open/floor/plating/asteroid,
+/area/ruin/space/has_grav/spacepolicepost)
+"i" = (
+/obj/structure/fence/corner{
+	dir = 10
+	},
+/obj/structure/fans/tiny/invisible,
+/turf/open/floor/holofloor/grass,
+/area/ruin/space/has_grav/spacepolicepost)
+"j" = (
+/obj/structure/flora/ausbushes/fullgrass,
+/turf/open/floor/grass,
+/area/ruin/space/has_grav/spacepolicepost)
+"k" = (
+/obj/structure/table,
+/obj/item/book/manual/wiki/security_space_law,
+/obj/item/paper/fluff,
+/obj/item/paper/fluff,
+/obj/item/pen/blue,
+/obj/item/pen/red,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/space/has_grav/spacepolicepost)
+"l" = (
+/obj/structure/fans/tiny/invisible,
+/obj/structure/flora/ausbushes/brflowers,
+/turf/open/floor/holofloor/grass,
+/area/ruin/space/has_grav/spacepolicepost)
+"m" = (
+/obj/machinery/door/airlock/security,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/space/has_grav/spacepolicepost)
+"n" = (
+/obj/structure/table,
+/obj/item/storage/fancy/cigarettes/cigpack_robust,
+/obj/item/lighter,
+/turf/open/floor/plasteel,
+/area/ruin/space/has_grav/spacepolicepost)
+"o" = (
+/obj/machinery/atmospherics/pipe/simple/supply/hidden{
+	dir = 6
+	},
+/turf/closed/wall,
+/area/ruin/space/has_grav/spacepolicepost)
+"p" = (
+/obj/effect/mob_spawn/human/spacepolice{
+	dir = 8
+	},
+/turf/open/floor/plasteel/airless/cafeteria,
+/area/ruin/space/has_grav/spacepolicepost)
+"q" = (
+/obj/structure/fence,
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/holofloor/grass,
+/area/ruin/space/has_grav/spacepolicepost)
+"r" = (
+/obj/structure/tank_dispenser/oxygen{
+	oxygentanks = 5
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/has_grav/spacepolicepost)
+"s" = (
+/obj/structure/fans/tiny/invisible,
+/turf/open/floor/plating/dirt,
+/area/ruin/space/has_grav/spacepolicepost)
+"t" = (
+/obj/machinery/atmospherics/pipe/manifold/supply/hidden,
+/turf/closed/wall,
+/area/ruin/space/has_grav/spacepolicepost)
+"u" = (
+/obj/machinery/computer/camera_advanced{
+	dir = 8
+	},
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/space/has_grav/spacepolicepost)
+"v" = (
+/obj/machinery/atmospherics/pipe/simple/supply/hidden{
+	dir = 10
+	},
+/turf/closed/wall,
+/area/ruin/space/has_grav/spacepolicepost)
+"x" = (
+/obj/machinery/telecomms/relay/preset/auto,
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/vault,
+/area/ruin/space/has_grav/spacepolicepost)
+"y" = (
+/obj/structure/table,
+/obj/item/storage/toolbox/mechanical,
+/obj/item/multitool,
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/has_grav/spacepolicepost)
+"z" = (
+/obj/structure/fans/tiny,
+/obj/effect/turf_decal/delivery,
+/obj/machinery/door/poddoor/shutters{
+	id = 44
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/has_grav/spacepolicepost)
+"A" = (
+/obj/machinery/door/airlock/highsecurity,
+/turf/open/floor/vault,
+/area/ruin/space/has_grav/spacepolicepost)
+"B" = (
+/turf/open/floor/plasteel,
+/area/ruin/space/has_grav/spacepolicepost)
+"C" = (
+/obj/structure/table,
+/obj/machinery/airalarm/directional/north,
+/obj/item/storage/fancy/donut_box,
+/turf/open/floor/plasteel,
+/area/ruin/space/has_grav/spacepolicepost)
+"D" = (
+/obj/structure/table,
+/obj/item/flashlight/lamp,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/space/has_grav/spacepolicepost)
+"E" = (
+/obj/structure/fence/door,
+/obj/structure/fans/tiny/invisible,
+/turf/open/floor/grass,
+/area/ruin/space/has_grav/spacepolicepost)
+"G" = (
+/obj/effect/turf_decal,
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/has_grav/spacepolicepost)
+"H" = (
+/turf/closed/mineral/random,
+/area/ruin/unpowered/no_grav)
+"I" = (
+/obj/vehicle/ridden/space/thelawspeedbike{
+	desc = "The Law, hunting criminals both figuratively and now literally!"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/has_grav/spacepolicepost)
+"J" = (
+/obj/effect/turf_decal,
+/turf/open/floor/plasteel,
+/area/ruin/space/has_grav/spacepolicepost)
+"K" = (
+/obj/structure/mirror/magic{
+	choosable_races = list("lizard","human","felinid","mammal","xeno","dwarf","insect","arachnid","ipc");
+	name = "Indentity Mirror";
+	pixel_y = 30
+	},
+/mob/living/simple_animal/bot/cleanbot{
+	desc = "He'll wipe away every crime! Including your own sins!";
+	name = "The Roomba of Justice"
+	},
+/turf/open/floor/plasteel/airless/cafeteria,
+/area/ruin/space/has_grav/spacepolicepost)
+"L" = (
+/obj/structure/fans/tiny/invisible,
+/turf/open/floor/holofloor/grass,
+/area/ruin/space/has_grav/spacepolicepost)
+"M" = (
+/obj/machinery/recharger,
+/obj/structure/table,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/space/has_grav/spacepolicepost)
+"N" = (
+/obj/structure/window/reinforced/fulltile,
+/obj/structure/grille,
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/space/has_grav/spacepolicepost)
+"O" = (
+/obj/structure/fence{
+	dir = 8
+	},
+/obj/structure/fans/tiny/invisible,
+/turf/open/floor/grass,
+/area/ruin/space/has_grav/spacepolicepost)
+"P" = (
+/obj/structure/chair/office/light{
+	dir = 4
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/space/has_grav/spacepolicepost)
+"Q" = (
+/obj/structure/fans/tiny/invisible,
+/turf/open/floor/grass,
+/area/ruin/space/has_grav/spacepolicepost)
+"R" = (
+/obj/structure/reagent_dispensers/fueltank{
+	anchored = 1
+	},
+/obj/machinery/atmospherics/components/unary/vent_pump/on{
+	dir = 1
+	},
+/obj/machinery/light/small{
+	dir = 1
+	},
+/turf/open/floor/plasteel,
+/area/ruin/space/has_grav/spacepolicepost)
+"S" = (
+/obj/machinery/button/door{
+	id = 44
+	},
+/turf/closed/wall,
+/area/ruin/space/has_grav/spacepolicepost)
+"T" = (
+/obj/structure/table,
+/obj/item/export/bottle/vodka,
+/obj/item/export/bottle/whiskey,
+/obj/item/export/bottle/whiskey,
+/turf/open/floor/plasteel,
+/area/ruin/space/has_grav/spacepolicepost)
+"U" = (
+/obj/structure/fans/tiny/invisible,
+/obj/structure/flora/ausbushes/grassybush,
+/turf/open/floor/holofloor/grass,
+/area/ruin/space/has_grav/spacepolicepost)
+"V" = (
+/obj/structure/fence/corner,
+/obj/structure/fans/tiny/invisible,
+/turf/open/floor/holofloor/grass,
+/area/ruin/space/has_grav/spacepolicepost)
+"W" = (
+/obj/machinery/vending/snack{
+	default_price = 0;
+	extra_price = 0
+	},
+/obj/machinery/atmospherics/components/unary/vent_pump/on{
+	dir = 1
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/space/has_grav/spacepolicepost)
+"X" = (
+/obj/machinery/door/airlock/security,
+/turf/open/floor/plasteel/airless/cafeteria,
+/area/ruin/space/has_grav/spacepolicepost)
+"Y" = (
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/space/has_grav/spacepolicepost)
+
+(1,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+e
+a
+a
+a
+e
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(2,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+e
+a
+a
+e
+H
+e
+a
+a
+a
+a
+a
+a
+a
+"}
+(3,1,1) = {"
+a
+a
+a
+a
+a
+a
+e
+e
+e
+H
+H
+H
+e
+e
+a
+a
+a
+a
+a
+a
+"}
+(4,1,1) = {"
+a
+a
+a
+a
+a
+a
+H
+H
+H
+H
+H
+H
+H
+e
+a
+a
+a
+a
+a
+a
+"}
+(5,1,1) = {"
+a
+a
+a
+a
+a
+c
+c
+c
+c
+S
+c
+U
+l
+e
+a
+a
+a
+a
+a
+a
+"}
+(6,1,1) = {"
+a
+a
+a
+a
+a
+c
+y
+n
+r
+d
+z
+b
+s
+e
+e
+a
+a
+a
+a
+a
+"}
+(7,1,1) = {"
+a
+a
+a
+a
+e
+c
+T
+B
+I
+J
+z
+b
+s
+e
+e
+e
+e
+a
+a
+a
+"}
+(8,1,1) = {"
+a
+a
+a
+a
+H
+c
+C
+B
+B
+J
+z
+b
+s
+e
+e
+a
+a
+a
+a
+a
+"}
+(9,1,1) = {"
+a
+a
+a
+e
+H
+o
+R
+B
+B
+G
+z
+b
+s
+e
+a
+a
+a
+a
+a
+a
+"}
+(10,1,1) = {"
+a
+e
+e
+e
+h
+t
+c
+m
+c
+c
+c
+q
+i
+e
+e
+e
+a
+a
+a
+a
+"}
+(11,1,1) = {"
+a
+a
+a
+a
+c
+v
+W
+Y
+M
+N
+j
+f
+O
+e
+e
+a
+a
+a
+a
+a
+"}
+(12,1,1) = {"
+a
+a
+a
+a
+c
+K
+Y
+P
+Y
+X
+f
+f
+E
+e
+e
+e
+a
+a
+a
+a
+"}
+(13,1,1) = {"
+a
+a
+a
+a
+c
+p
+D
+u
+k
+N
+j
+f
+O
+e
+e
+e
+e
+e
+a
+a
+"}
+(14,1,1) = {"
+a
+a
+a
+a
+c
+c
+c
+c
+c
+c
+c
+q
+V
+e
+e
+a
+a
+a
+a
+a
+"}
+(15,1,1) = {"
+a
+a
+a
+a
+a
+H
+H
+c
+x
+A
+Q
+L
+L
+e
+e
+a
+a
+a
+a
+a
+"}
+(16,1,1) = {"
+a
+a
+a
+a
+a
+e
+a
+c
+c
+c
+H
+H
+H
+H
+H
+H
+a
+a
+a
+a
+"}
+(17,1,1) = {"
+a
+a
+a
+a
+a
+e
+a
+a
+a
+H
+H
+H
+H
+a
+a
+a
+a
+a
+a
+a
+"}
+(18,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(19,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(20,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}

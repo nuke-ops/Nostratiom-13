@@ -86,6 +86,35 @@ for further reading, please see: https://github.com/tgstation/tgstation/pull/301
 	force = 25
 	block_chance = 0
 
+/obj/item/claymore/unforgiven
+	name = "the unforgiven"
+	desc = "You feel betrayed, broken. Have they forgiven you? Will they forgive you!? Your mind spins with anger and confusion..."
+	hitsound = 'sound/weapons/sear.ogg'
+	force = 35
+	throwforce = 15
+	slot_flags = ITEM_SLOT_BACK
+	attack_verb = list("scorned", "carved", "seared", "sliced", "gashed", "glaved", "gutted")
+	block_chance = 30
+	max_integrity = 500
+	item_flags = SLOWS_WHILE_IN_HAND
+
+/obj/item/claymore/unforgiven/Initialize(mapload)
+	. = ..()
+	START_PROCESSING(SSobj, src)
+	AddComponent(/datum/component/butchering, 50, 105)
+
+/obj/item/claymore/unforgiven/Destroy()
+	STOP_PROCESSING(SSobj, src)
+	. = ..()
+
+/obj/item/claymore/unforgiven/process()
+	slowdown = -0.2
+	if(iscarbon(loc))
+		var/mob/living/carbon/wielder = loc
+		if(wielder.is_holding(src))
+			wielder.update_equipment_speed_mods()
+
+
 /obj/item/claymore/highlander //ALL COMMENTS MADE REGARDING THIS SWORD MUST BE MADE IN ALL CAPS
 	desc = "<b><i>THERE CAN BE ONLY ONE, AND IT WILL BE YOU!!!</i></b>\nActivate it in your hand to point to the nearest victim."
 	flags_1 = CONDUCT_1

@@ -40,6 +40,10 @@
 	name = "Elephant Graveyard"
 	icon_state = "green"
 
+/area/ruin/powered/errorhostile
+	name = "errorcode-hostile"
+	icon_state = "dk_yellow"
+
 /area/ruin/unpowered/syndicate_lava_base
 	name = "Secret Base"
 	icon_state = "dk_yellow"

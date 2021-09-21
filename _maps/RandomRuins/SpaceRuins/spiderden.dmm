@@ -1,0 +1,529 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"a" = (
+/turf/template_noop,
+/area/template_noop)
+"b" = (
+/obj/structure/closet/crate/grave{
+	allow_objects = 0;
+	mob_storage_capacity = 0;
+	should_populate_contents = 0;
+	storage_capacity = 5
+	},
+/obj/item/clothing/suit/armor/riot/knight/red{
+	armor = list("melee" = 60, "bullet" = 5, "laser" = 2, "energy" = 2, "bomb" = 0, "bio" = 0, "rad" = 0, "fire" = 70, "acid" = 60, "wound" = 20);
+	name = "crusader armor"
+	},
+/obj/item/claymore/weak/ceremonial{
+	force = 16;
+	name = "aged claymore";
+	throwforce = 8
+	},
+/obj/item/storage/book/bible,
+/turf/open/floor/plating/dirt/dark,
+/area/ruin/space/has_grav)
+"f" = (
+/turf/open/floor/plating/asteroid,
+/area/ruin/space/has_grav)
+"l" = (
+/obj/structure/mineral_door,
+/turf/open/floor/plating/dirt,
+/area/ruin/space/has_grav)
+"m" = (
+/mob/living/simple_animal/hostile/poison/giant_spider/hunter{
+	atmos_requirements = list("min_oxy" = 0, "max_oxy" = 0, "min_tox" = 0, "max_tox" = 0, "min_co2" = 0, "max_co2" = 0, "min_n2" = 0, "max_n2" = 0);
+	death_sound = 'sound/effects/lingscreech.ogg';
+	deathmessage = "lets out a guttural scream...";
+	desc = "This one is different...";
+	health = 150;
+	name = "Holy Spider"
+	},
+/turf/open/floor/plating/dirt/dark,
+/area/ruin/space/has_grav)
+"o" = (
+/obj/item/flashlight/lantern,
+/turf/open/floor/plating/asteroid,
+/area/ruin/space/has_grav)
+"q" = (
+/obj/structure/spider/stickyweb,
+/turf/open/floor/plating/dirt/dark,
+/area/ruin/space/has_grav)
+"r" = (
+/obj/effect/decal/cleanable/cobweb/cobweb2,
+/turf/open/floor/plating/dirt/dark,
+/area/ruin/space/has_grav)
+"C" = (
+/turf/closed/mineral/random,
+/area/ruin/space/has_grav)
+"D" = (
+/obj/item/shovel,
+/turf/open/floor/plating/asteroid,
+/area/ruin/space/has_grav)
+"I" = (
+/turf/open/floor/plating/dirt/dark,
+/area/ruin/space/has_grav)
+"K" = (
+/obj/item/flashlight/flare/torch{
+	anchored = 1;
+	on = 1
+	},
+/obj/structure/flora/rock/pile,
+/turf/open/floor/plating/dirt/dark,
+/area/ruin/space/has_grav)
+"R" = (
+/mob/living/simple_animal/hostile/poison/giant_spider{
+	atmos_requirements = list("min_oxy" = 0, "max_oxy" = 0, "min_tox" = 0, "max_tox" = 0, "min_co2" = 0, "max_co2" = 0, "min_n2" = 0, "max_n2" = 0);
+	death_sound = 'sound/effects/lingscreech.ogg';
+	deathmessage = "lets out a guttural scream...";
+	desc = "This one is different...";
+	dir = 4;
+	health = 250;
+	name = "Great Holy Spider"
+	},
+/obj/effect/decal/cleanable/cobweb,
+/turf/open/floor/plating/dirt/dark,
+/area/ruin/space/has_grav)
+"V" = (
+/obj/effect/decal/cleanable/dirt/dust,
+/turf/open/floor/plating/dirt/dark,
+/area/ruin/space/has_grav)
+
+(1,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+f
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(2,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+f
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(3,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+f
+f
+f
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(4,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+f
+C
+f
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(5,1,1) = {"
+a
+a
+a
+a
+a
+a
+f
+f
+C
+C
+f
+f
+a
+a
+f
+f
+a
+a
+a
+a
+"}
+(6,1,1) = {"
+a
+a
+a
+a
+a
+f
+f
+C
+C
+C
+C
+C
+f
+f
+f
+f
+a
+a
+a
+a
+"}
+(7,1,1) = {"
+a
+a
+a
+a
+f
+C
+C
+C
+R
+K
+C
+C
+C
+f
+a
+a
+a
+a
+a
+a
+"}
+(8,1,1) = {"
+a
+a
+f
+f
+C
+C
+q
+I
+V
+q
+C
+f
+f
+a
+a
+a
+a
+a
+a
+a
+"}
+(9,1,1) = {"
+a
+f
+f
+f
+C
+C
+q
+b
+I
+q
+C
+C
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(10,1,1) = {"
+a
+a
+a
+a
+f
+C
+I
+V
+I
+I
+C
+C
+o
+a
+a
+a
+a
+a
+a
+a
+"}
+(11,1,1) = {"
+a
+a
+a
+a
+f
+C
+C
+I
+m
+V
+q
+C
+f
+a
+a
+a
+a
+a
+a
+a
+"}
+(12,1,1) = {"
+a
+a
+a
+a
+f
+C
+C
+r
+I
+I
+V
+l
+f
+f
+a
+a
+a
+a
+a
+a
+"}
+(13,1,1) = {"
+a
+a
+a
+a
+a
+f
+C
+C
+C
+C
+C
+C
+C
+D
+f
+a
+a
+a
+a
+a
+"}
+(14,1,1) = {"
+a
+a
+a
+a
+a
+f
+C
+C
+C
+f
+f
+C
+C
+C
+C
+f
+f
+a
+a
+a
+"}
+(15,1,1) = {"
+a
+a
+a
+a
+a
+f
+C
+f
+f
+a
+f
+f
+f
+f
+f
+f
+f
+f
+a
+a
+"}
+(16,1,1) = {"
+a
+a
+a
+a
+a
+f
+C
+f
+a
+a
+a
+a
+a
+a
+a
+a
+f
+f
+f
+a
+"}
+(17,1,1) = {"
+a
+a
+a
+a
+a
+f
+f
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(18,1,1) = {"
+a
+a
+a
+a
+a
+a
+f
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(19,1,1) = {"
+a
+a
+a
+a
+a
+a
+f
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}
+(20,1,1) = {"
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+a
+"}

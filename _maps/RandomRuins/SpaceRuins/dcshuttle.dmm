@@ -1,0 +1,998 @@
+//MAP CONVERTED BY dmm2tgm.py THIS HEADER COMMENT PREVENTS RECONVERSION, DO NOT REMOVE
+"ca" = (
+/obj/structure/bed,
+/obj/item/bedsheet/black,
+/turf/open/floor/wood,
+/area/ruin/powered/shuttle/medium_2)
+"cj" = (
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/plasteel,
+/area/ruin/powered/shuttle/medium_2)
+"cB" = (
+/turf/closed/wall/mineral/plastitanium/nodiagonal,
+/area/ruin/powered/shuttle/medium_2)
+"dn" = (
+/obj/machinery/autolathe/hacked,
+/turf/open/floor/plasteel,
+/area/ruin/powered/shuttle/medium_2)
+"dr" = (
+/obj/structure/shuttle/engine/propulsion{
+	dir = 8
+	},
+/obj/structure/shuttle/engine/propulsion{
+	dir = 8
+	},
+/turf/open/space,
+/area/ruin/powered/shuttle/medium_2)
+"dP" = (
+/obj/structure/closet,
+/obj/item/toy/plush/narplush,
+/turf/open/floor/wood,
+/area/ruin/powered/shuttle/medium_2)
+"eq" = (
+/obj/effect/turf_decal/tile/yellow{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 8
+	},
+/obj/machinery/computer/camera_advanced/shuttle_docker{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered/shuttle/medium_2)
+"fj" = (
+/obj/structure/table,
+/obj/item/storage/firstaid/regular,
+/obj/effect/turf_decal/tile/blue{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/blue{
+	dir = 8
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered/shuttle/medium_2)
+"fJ" = (
+/obj/structure/chair/comfy{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 8
+	},
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered/shuttle/medium_2)
+"gu" = (
+/obj/structure/table,
+/obj/machinery/power/apc{
+	dir = 1;
+	pixel_y = 23
+	},
+/obj/structure/cable{
+	icon_state = "0-2"
+	},
+/obj/machinery/cell_charger,
+/obj/item/stock_parts/cell/high,
+/obj/effect/turf_decal/stripes/corner{
+	dir = 1
+	},
+/turf/open/floor/plating,
+/area/ruin/powered/shuttle/medium_2)
+"hD" = (
+/obj/effect/turf_decal/delivery,
+/obj/effect/turf_decal/stripes/line{
+	dir = 1
+	},
+/obj/structure/closet/crate,
+/obj/item/circuitboard/machine/ore_silo,
+/obj/item/multitool,
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered/shuttle/medium_2)
+"iq" = (
+/obj/effect/turf_decal/delivery,
+/obj/effect/turf_decal/stripes/line{
+	dir = 2
+	},
+/obj/structure/reagent_dispensers/watertank,
+/turf/open/floor/plating,
+/area/ruin/powered/shuttle/medium_2)
+"jq" = (
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/plasteel,
+/area/ruin/powered/shuttle/medium_2)
+"jA" = (
+/obj/effect/turf_decal/stripes/line,
+/turf/open/floor/plasteel,
+/area/ruin/powered/shuttle/medium_2)
+"jR" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plating,
+/area/ruin/powered/shuttle/medium_2)
+"jV" = (
+/obj/machinery/power/smes/magical,
+/obj/structure/cable{
+	icon_state = "0-2"
+	},
+/obj/machinery/light/small{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/ruin/powered/shuttle/medium_2)
+"kv" = (
+/turf/template_noop,
+/area/template_noop)
+"kY" = (
+/turf/closed/wall/mineral/titanium/nodiagonal,
+/area/ruin/powered/shuttle/medium_2)
+"lu" = (
+/obj/structure/table/reinforced,
+/obj/item/clothing/suit/space/nasavoid,
+/obj/item/clothing/head/helmet/space/nasavoid,
+/obj/effect/turf_decal/delivery,
+/obj/effect/turf_decal/stripes/line{
+	dir = 5
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered/shuttle/medium_2)
+"lK" = (
+/obj/structure/table/reinforced,
+/obj/effect/turf_decal/tile/yellow{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 8
+	},
+/obj/item/toy/plush/jerry,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered/shuttle/medium_2)
+"mK" = (
+/obj/effect/turf_decal/tile/yellow{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 8
+	},
+/obj/machinery/computer/custom_shuttle{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered/shuttle/medium_2)
+"mU" = (
+/turf/closed/wall/mineral/titanium/overspace,
+/area/ruin/powered/shuttle/medium_2)
+"pf" = (
+/obj/structure/ore_box,
+/obj/item/storage/bag/ore/large,
+/obj/item/pickaxe,
+/obj/effect/turf_decal/delivery,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered/shuttle/medium_2)
+"qi" = (
+/obj/structure/shuttle/engine/propulsion{
+	dir = 8
+	},
+/turf/open/space,
+/area/ruin/powered/shuttle/medium_2)
+"qm" = (
+/obj/machinery/mineral/ore_redemption,
+/obj/effect/turf_decal/delivery,
+/turf/open/floor/plasteel,
+/area/ruin/powered/shuttle/medium_2)
+"qz" = (
+/obj/structure/cable,
+/obj/machinery/power/port_gen/pacman,
+/obj/item/wrench,
+/obj/effect/turf_decal/stripes/corner{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/ruin/powered/shuttle/medium_2)
+"rq" = (
+/obj/effect/turf_decal/tile/yellow{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered/shuttle/medium_2)
+"rz" = (
+/obj/machinery/door/airlock/public/glass,
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered/shuttle/medium_2)
+"sa" = (
+/obj/effect/turf_decal/delivery,
+/obj/effect/turf_decal/stripes/line{
+	dir = 1
+	},
+/obj/structure/closet/crate,
+/obj/item/stack/sheet/glass/fifty,
+/obj/item/stack/sheet/metal/fifty,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered/shuttle/medium_2)
+"sg" = (
+/obj/structure/cable{
+	icon_state = "1-8"
+	},
+/turf/closed/wall/mineral/titanium/nodiagonal,
+/area/ruin/powered/shuttle/medium_2)
+"un" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/ruin/powered/shuttle/medium_2)
+"uu" = (
+/obj/machinery/light{
+	dir = 4
+	},
+/turf/open/floor/plasteel,
+/area/ruin/powered/shuttle/medium_2)
+"xy" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/open/floor/wood,
+/area/ruin/powered/shuttle/medium_2)
+"xz" = (
+/obj/effect/turf_decal/tile/blue{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/blue{
+	dir = 8
+	},
+/obj/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered/shuttle/medium_2)
+"xQ" = (
+/obj/structure/cable{
+	icon_state = "1-4"
+	},
+/obj/machinery/light/small,
+/turf/open/floor/plating,
+/area/ruin/powered/shuttle/medium_2)
+"yA" = (
+/obj/structure/table/reinforced,
+/obj/item/reagent_containers/food/snacks/candy,
+/obj/item/reagent_containers/food/snacks/candy,
+/obj/item/reagent_containers/food/snacks/candy,
+/obj/item/reagent_containers/food/snacks/waffles,
+/obj/machinery/microwave{
+	pixel_y = 7
+	},
+/turf/open/floor/plasteel,
+/area/ruin/powered/shuttle/medium_2)
+"zL" = (
+/obj/structure/cable{
+	icon_state = "1-2"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/powered/shuttle/medium_2)
+"zX" = (
+/obj/structure/closet,
+/obj/item/clothing/suit/pirate,
+/obj/item/toy/plush/plushvar,
+/obj/item/clothing/glasses/sunglasses/big,
+/turf/open/floor/wood,
+/area/ruin/powered/shuttle/medium_2)
+"AX" = (
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/obj/machinery/power/terminal{
+	dir = 4
+	},
+/turf/open/floor/plating,
+/area/ruin/powered/shuttle/medium_2)
+"CL" = (
+/obj/structure/table/reinforced,
+/obj/item/clothing/suit/space/nasavoid,
+/obj/item/clothing/head/helmet/space/nasavoid,
+/obj/effect/turf_decal/delivery,
+/obj/effect/turf_decal/stripes/line{
+	dir = 6
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered/shuttle/medium_2)
+"CS" = (
+/obj/effect/turf_decal/delivery,
+/obj/structure/reagent_dispensers/fueltank,
+/obj/machinery/light/small{
+	dir = 1;
+	light_color = "#ffc1c1"
+	},
+/turf/open/floor/plating,
+/area/ruin/powered/shuttle/medium_2)
+"Df" = (
+/obj/machinery/door/airlock/external/glass,
+/obj/structure/fans/tiny,
+/obj/effect/mapping_helpers/airlock/cyclelink_helper{
+	dir = 1
+	},
+/turf/open/floor/plating,
+/area/ruin/powered/shuttle/medium_2)
+"DK" = (
+/obj/structure/window/reinforced{
+	dir = 4
+	},
+/obj/structure/shuttle/engine/heater{
+	dir = 8
+	},
+/turf/open/floor/plating/airless,
+/area/ruin/powered/shuttle/medium_2)
+"Ec" = (
+/obj/machinery/light,
+/turf/open/floor/plasteel,
+/area/ruin/powered/shuttle/medium_2)
+"Ez" = (
+/obj/structure/cable{
+	icon_state = "0-8"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/powered/shuttle/medium_2)
+"Gm" = (
+/obj/structure/table/reinforced,
+/obj/item/kirbyplants{
+	icon_state = "plant-18";
+	pixel_y = 10
+	},
+/turf/open/floor/plasteel,
+/area/ruin/powered/shuttle/medium_2)
+"GA" = (
+/obj/machinery/light/small{
+	dir = 8
+	},
+/turf/open/floor/plating,
+/area/ruin/powered/shuttle/medium_2)
+"GO" = (
+/turf/closed/wall/mineral/titanium,
+/area/ruin/powered/shuttle/medium_2)
+"Ie" = (
+/obj/effect/turf_decal/tile/yellow{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 8
+	},
+/obj/structure/table/reinforced,
+/obj/item/kirbyplants{
+	pixel_y = 10
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered/shuttle/medium_2)
+"Iq" = (
+/obj/effect/turf_decal/stripes/line{
+	dir = 1
+	},
+/turf/open/floor/plasteel,
+/area/ruin/powered/shuttle/medium_2)
+"Kl" = (
+/obj/structure/table/reinforced,
+/obj/item/reagent_containers/food/snacks/grilledcheese,
+/turf/open/floor/plasteel,
+/area/ruin/powered/shuttle/medium_2)
+"Lx" = (
+/obj/machinery/door/airlock/external/glass,
+/obj/structure/fans/tiny,
+/obj/effect/mapping_helpers/airlock/cyclelink_helper,
+/turf/open/floor/plating,
+/area/ruin/powered/shuttle/medium_2)
+"Lz" = (
+/turf/open/floor/wood,
+/area/ruin/powered/shuttle/medium_2)
+"Me" = (
+/obj/effect/turf_decal/delivery,
+/obj/effect/turf_decal/stripes/line,
+/obj/structure/closet/firecloset,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered/shuttle/medium_2)
+"Mt" = (
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/powered/shuttle/medium_2)
+"MZ" = (
+/obj/machinery/door/airlock/external/glass,
+/obj/structure/fans/tiny,
+/turf/open/floor/plating,
+/area/ruin/powered/shuttle/medium_2)
+"No" = (
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/turf/open/floor/plasteel,
+/area/ruin/powered/shuttle/medium_2)
+"NL" = (
+/obj/structure/bed,
+/obj/item/bedsheet/cult,
+/turf/open/floor/wood,
+/area/ruin/powered/shuttle/medium_2)
+"Ok" = (
+/obj/machinery/door/airlock/maintenance,
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered/shuttle/medium_2)
+"OA" = (
+/turf/closed/wall/mineral/plastitanium,
+/area/ruin/powered/shuttle/medium_2)
+"OT" = (
+/obj/machinery/light{
+	dir = 1
+	},
+/turf/open/floor/plasteel,
+/area/ruin/powered/shuttle/medium_2)
+"Qe" = (
+/obj/effect/turf_decal/stripes/corner{
+	dir = 1
+	},
+/turf/open/floor/plasteel,
+/area/ruin/powered/shuttle/medium_2)
+"Qx" = (
+/obj/structure/tank_dispenser/oxygen,
+/obj/effect/turf_decal/delivery,
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/obj/machinery/light{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered/shuttle/medium_2)
+"Rt" = (
+/turf/open/floor/plating,
+/area/ruin/powered/shuttle/medium_2)
+"RN" = (
+/obj/machinery/sleeper{
+	dir = 1
+	},
+/obj/effect/turf_decal/tile/blue{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/blue{
+	dir = 8
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered/shuttle/medium_2)
+"SG" = (
+/obj/effect/turf_decal/stripes/corner,
+/turf/open/floor/plasteel,
+/area/ruin/powered/shuttle/medium_2)
+"Tu" = (
+/obj/structure/table/reinforced,
+/obj/item/storage/toolbox/mechanical,
+/obj/item/storage/toolbox/mechanical,
+/obj/item/storage/toolbox/electrical,
+/obj/item/storage/toolbox/artistic,
+/turf/open/floor/plasteel,
+/area/ruin/powered/shuttle/medium_2)
+"TM" = (
+/obj/effect/turf_decal/stripes/corner{
+	dir = 8
+	},
+/turf/open/floor/plasteel,
+/area/ruin/powered/shuttle/medium_2)
+"TX" = (
+/turf/open/floor/plasteel,
+/area/ruin/powered/shuttle/medium_2)
+"UD" = (
+/obj/machinery/door/airlock/public/glass,
+/obj/structure/cable{
+	icon_state = "4-8"
+	},
+/obj/effect/turf_decal/stripes/line{
+	dir = 4
+	},
+/obj/effect/turf_decal/stripes/line{
+	dir = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered/shuttle/medium_2)
+"Vc" = (
+/obj/effect/turf_decal/tile/blue{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/blue{
+	dir = 8
+	},
+/turf/open/floor/plasteel/cafeteria,
+/area/ruin/powered/shuttle/medium_2)
+"VD" = (
+/obj/structure/table/reinforced,
+/obj/machinery/cell_charger,
+/obj/item/stock_parts/cell/high,
+/turf/open/floor/plasteel,
+/area/ruin/powered/shuttle/medium_2)
+"Xa" = (
+/obj/effect/spawner/structure/window/shuttle,
+/turf/open/floor/plating,
+/area/ruin/powered/shuttle/medium_2)
+"Xp" = (
+/obj/effect/turf_decal/stripes/corner{
+	dir = 4
+	},
+/turf/open/floor/plasteel,
+/area/ruin/powered/shuttle/medium_2)
+"XU" = (
+/obj/structure/cable{
+	icon_state = "2-4"
+	},
+/turf/open/floor/plating,
+/area/ruin/powered/shuttle/medium_2)
+"YR" = (
+/obj/effect/turf_decal/tile/yellow{
+	dir = 4
+	},
+/obj/effect/turf_decal/tile/yellow{
+	dir = 8
+	},
+/obj/structure/table/reinforced,
+/obj/item/kirbyplants{
+	icon_state = "plant-21";
+	pixel_y = 8
+	},
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered/shuttle/medium_2)
+"Zi" = (
+/obj/effect/turf_decal/delivery,
+/obj/effect/turf_decal/stripes/line,
+/obj/structure/closet/emcloset,
+/turf/open/floor/plasteel/dark,
+/area/ruin/powered/shuttle/medium_2)
+
+(1,1,1) = {"
+kv
+kv
+kv
+qi
+qi
+kv
+kv
+kv
+qi
+qi
+kv
+kv
+kv
+"}
+(2,1,1) = {"
+kv
+kv
+kv
+DK
+DK
+kv
+kv
+kv
+DK
+DK
+kv
+kv
+kv
+"}
+(3,1,1) = {"
+kv
+kv
+kv
+OA
+OA
+kv
+kv
+kv
+OA
+OA
+kv
+kv
+kv
+"}
+(4,1,1) = {"
+qi
+dr
+OA
+cB
+cB
+kv
+kv
+kv
+cB
+cB
+OA
+qi
+qi
+"}
+(5,1,1) = {"
+DK
+DK
+cB
+cB
+kY
+kY
+MZ
+kY
+kY
+cB
+cB
+DK
+DK
+"}
+(6,1,1) = {"
+OA
+cB
+kY
+kY
+kY
+gu
+un
+qz
+kY
+kY
+kY
+cB
+OA
+"}
+(7,1,1) = {"
+cB
+cB
+kY
+CS
+iq
+Rt
+AX
+XU
+jR
+xQ
+kY
+cB
+cB
+"}
+(8,1,1) = {"
+cB
+kY
+kY
+kY
+kY
+kY
+jV
+sg
+kY
+UD
+kY
+kY
+cB
+"}
+(9,1,1) = {"
+cB
+kY
+dP
+xy
+zX
+kY
+kY
+kY
+Me
+Mt
+sa
+kY
+cB
+"}
+(10,1,1) = {"
+OA
+kY
+NL
+Lz
+ca
+kY
+Rt
+kY
+Zi
+Mt
+hD
+kY
+OA
+"}
+(11,1,1) = {"
+kv
+GO
+kY
+Ok
+kY
+kY
+kY
+kY
+kY
+UD
+kY
+GO
+kv
+"}
+(12,1,1) = {"
+kv
+kv
+kY
+TX
+pf
+lu
+Qx
+CL
+pf
+Mt
+kY
+kv
+kv
+"}
+(13,1,1) = {"
+kv
+kv
+kY
+jq
+TX
+TX
+No
+zL
+zL
+cj
+kY
+kv
+kv
+"}
+(14,1,1) = {"
+kv
+kv
+kY
+kY
+kY
+TM
+Ez
+SG
+kY
+kY
+kY
+kv
+kv
+"}
+(15,1,1) = {"
+kv
+kv
+Lx
+GA
+Df
+Iq
+qm
+jA
+Lx
+GA
+Df
+kv
+kv
+"}
+(16,1,1) = {"
+kv
+kv
+mU
+kY
+GO
+Xp
+TX
+Qe
+GO
+kY
+mU
+kv
+kv
+"}
+(17,1,1) = {"
+kv
+kv
+kv
+kY
+TX
+TX
+uu
+TX
+TX
+kY
+kv
+kv
+kv
+"}
+(18,1,1) = {"
+kv
+kv
+kv
+kY
+rz
+kY
+kY
+kY
+rz
+kY
+kv
+kv
+kv
+"}
+(19,1,1) = {"
+kv
+kv
+kv
+kY
+Vc
+fj
+Xa
+VD
+TX
+kY
+kv
+kv
+kv
+"}
+(20,1,1) = {"
+kv
+kv
+kv
+kY
+xz
+RN
+Xa
+dn
+Ec
+kY
+kv
+kv
+kv
+"}
+(21,1,1) = {"
+kv
+kv
+kv
+kY
+rz
+kY
+kY
+kY
+rz
+kY
+kv
+kv
+kv
+"}
+(22,1,1) = {"
+kv
+kv
+kv
+kY
+TX
+Tu
+Xa
+yA
+TX
+kY
+kv
+kv
+kv
+"}
+(23,1,1) = {"
+kv
+kv
+kv
+kY
+OT
+Gm
+Xa
+Kl
+Ec
+kY
+kv
+kv
+kv
+"}
+(24,1,1) = {"
+kv
+kv
+kv
+kY
+rz
+kY
+kY
+kY
+rz
+kY
+kv
+kv
+kv
+"}
+(25,1,1) = {"
+kv
+kv
+kv
+kY
+rq
+rq
+fJ
+rq
+rq
+kY
+kv
+kv
+kv
+"}
+(26,1,1) = {"
+kv
+kv
+kv
+kY
+Ie
+mK
+lK
+eq
+YR
+kY
+kv
+kv
+kv
+"}
+(27,1,1) = {"
+kv
+kv
+kv
+mU
+kY
+Xa
+Xa
+Xa
+kY
+mU
+kv
+kv
+kv
+"}
+(28,1,1) = {"
+kv
+kv
+kv
+kv
+mU
+kv
+kv
+kv
+mU
+kv
+kv
+kv
+kv
+"}

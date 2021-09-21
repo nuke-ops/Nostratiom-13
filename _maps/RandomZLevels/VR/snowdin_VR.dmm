@@ -4431,6 +4431,15 @@
 	},
 /turf/open/floor/plating/snowed/smoothed,
 /area/awaymission/snowdin/outside)
+"jE" = (
+/obj/effect/mob_spawn/human/corpse{
+	outfit = /datum/outfit/dead_cultist
+	},
+/obj/effect/turf_decal/weather/dirt{
+	dir = 10
+	},
+/turf/open/floor/plating/dirt/dark,
+/area/awaymission/snowdin/cave/cavern)
 "jF" = (
 /obj/effect/decal/cleanable/dirt,
 /turf/open/floor/plating{
@@ -5875,6 +5884,13 @@
 /obj/effect/spawner/structure/window/reinforced,
 /turf/open/floor/plating,
 /area/awaymission/snowdin/post/garage)
+"mA" = (
+/obj/effect/decal/cleanable/blood/old,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 4
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
 "mB" = (
 /obj/item/storage/toolbox/electrical,
 /obj/machinery/atmospherics/components/unary/vent_pump/on{
@@ -8627,6 +8643,10 @@
 	},
 /turf/open/floor/plasteel/dark/snowdin,
 /area/awaymission/snowdin/outside)
+"sT" = (
+/obj/structure/flora/rock/icy,
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
 "sU" = (
 /obj/effect/turf_decal/weather/snow,
 /obj/effect/turf_decal/stripes/white/line{
@@ -8881,6 +8901,16 @@
 "tL" = (
 /mob/living/simple_animal/hostile/poison/giant_spider/nurse/ice,
 /turf/open/floor/plating/asteroid/snow/ice,
+/area/awaymission/snowdin/cave/cavern)
+"tM" = (
+/obj/structure/flora/rock/icy,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 1
+	},
+/obj/effect/turf_decal/weather/dirt{
+	dir = 4
+	},
+/turf/open/floor/plating/ashplanet/rocky,
 /area/awaymission/snowdin/cave/cavern)
 "tN" = (
 /turf/open/floor/plating/ice/smooth,
@@ -10196,6 +10226,13 @@
 	initial_gas_mix = "o2=22;n2=82;TEMP=180"
 	},
 /area/awaymission/snowdin/cave)
+"xn" = (
+/obj/item/pickaxe/mini,
+/obj/effect/mob_spawn/human/corpse/damaged{
+	outfit = /datum/outfit/eskimo
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
 "xp" = (
 /obj/effect/turf_decal/stripes/white/line{
 	dir = 8
@@ -13149,8 +13186,8 @@
 	},
 /turf/open/floor/mineral/plastitanium{
 	initial_gas_mix = "o2=22;n2=82;TEMP=180";
-	planetary_atmos = 1;
-	initial_temperature = 180
+	initial_temperature = 180;
+	planetary_atmos = 1
 	},
 /area/awaymission/snowdin/cave)
 "EF" = (
@@ -13161,8 +13198,8 @@
 /obj/machinery/suit_storage_unit/syndicate,
 /turf/open/floor/mineral/plastitanium{
 	initial_gas_mix = "o2=22;n2=82;TEMP=180";
-	planetary_atmos = 1;
-	initial_temperature = 180
+	initial_temperature = 180;
+	planetary_atmos = 1
 	},
 /area/awaymission/snowdin/cave)
 "EG" = (
@@ -13175,8 +13212,8 @@
 	},
 /turf/open/floor/mineral/plastitanium{
 	initial_gas_mix = "o2=22;n2=82;TEMP=180";
-	planetary_atmos = 1;
-	initial_temperature = 180
+	initial_temperature = 180;
+	planetary_atmos = 1
 	},
 /area/awaymission/snowdin/cave)
 "EH" = (
@@ -15138,6 +15175,23 @@
 	},
 /turf/open/floor/plasteel,
 /area/awaymission/snowdin/post/mining_main)
+"JQ" = (
+/obj/structure/flora/rock/icy,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 6
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"JT" = (
+/obj/item/candle/infinite{
+	desc = "An ominous candle";
+	lit = 1
+	},
+/obj/effect/turf_decal/weather/dirt{
+	dir = 4
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
 "JU" = (
 /obj/effect/turf_decal/stripes/line{
 	dir = 8
@@ -15218,6 +15272,13 @@
 	},
 /turf/open/floor/plasteel,
 /area/awaymission/snowdin/post/mining_main)
+"Ke" = (
+/obj/structure/flora/rock/pile/icy,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 8
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
 "Kg" = (
 /obj/structure/ore_box,
 /obj/effect/turf_decal/bot,
@@ -15440,6 +15501,15 @@
 	},
 /turf/open/floor/plasteel,
 /area/awaymission/snowdin/post/mining_main)
+"KC" = (
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 5
+	},
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 9
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
 "KD" = (
 /obj/structure/ore_box,
 /obj/effect/turf_decal/bot,
@@ -15667,6 +15737,10 @@
 /obj/effect/spawner/lootdrop/crate_spawner,
 /turf/open/floor/plating/asteroid/snow/ice,
 /area/awaymission/snowdin/cave/cavern)
+"Le" = (
+/obj/effect/decal/cleanable/blood/tracks,
+/turf/open/floor/plating/dirt/dark,
+/area/awaymission/snowdin/cave/cavern)
 "Lw" = (
 /obj/machinery/door/airlock/external/glass,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper{
@@ -15681,9 +15755,104 @@
 	},
 /turf/open/floor/plating,
 /area/awaymission/snowdin/post/mining_dock)
+"LB" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 6
+	},
+/obj/effect/turf_decal/weather/dirt{
+	dir = 1
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"LR" = (
+/obj/item/paper/crumpled{
+	info = "go. save yourself or suffer our fate";
+	name = "worn scap of paper"
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"Ma" = (
+/obj/effect/turf_decal/weather/snow/corner,
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 1
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"Mp" = (
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 6
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"Mu" = (
+/obj/effect/decal/cleanable/blood/gibs/human/core,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 9
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"Mz" = (
+/turf/closed/mineral/ash_rock,
+/area/awaymission/snowdin/outside)
+"MB" = (
+/obj/item/candle/infinite{
+	desc = "An ominous candle";
+	lit = 1
+	},
+/obj/effect/turf_decal/weather/dirt{
+	dir = 9
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"ME" = (
+/obj/effect/rune/apocalypse,
+/obj/effect/decal/remains/human,
+/obj/item/kitchen/knife/bloodletter,
+/mob/living/simple_animal/hostile/megafauna/apothalsnow,
+/turf/open/floor/plating/dirt/dark,
+/area/awaymission/snowdin/cave/cavern)
+"Nb" = (
+/obj/structure/flora/bush,
+/turf/open/floor/grass/snow,
+/area/awaymission/snowdin/outside)
+"Ng" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 4
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"Nl" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 6
+	},
+/obj/effect/turf_decal/weather/dirt{
+	dir = 8
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
 "ND" = (
 /turf/open/floor/plasteel/elevatorshaft,
 /area/awaymission/snowdin/post/mining_dock)
+"NN" = (
+/obj/effect/decal/cleanable/blood/gibs/torso,
+/turf/open/floor/plating/dirt/dark,
+/area/awaymission/snowdin/cave/cavern)
+"NO" = (
+/turf/closed/mineral/ash_rock,
+/area/awaymission/snowdin/cave/cavern)
+"NP" = (
+/obj/structure/table_frame/wood,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 1
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"NY" = (
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 1
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
 "OF" = (
 /obj/machinery/door/airlock/external{
 	name = "Ready Room";
@@ -15704,6 +15873,52 @@
 	},
 /turf/open/floor/plasteel/dark,
 /area/awaymission/snowdin/cave)
+"OL" = (
+/obj/effect/decal/cleanable/blood/old,
+/obj/effect/mob_spawn/human/corpse{
+	outfit = /datum/outfit/dead_cultist
+	},
+/obj/effect/turf_decal/weather/dirt{
+	dir = 9
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"OO" = (
+/obj/effect/decal/cleanable/blood/gibs/human/lizard/body,
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"OT" = (
+/obj/item/candle/infinite{
+	desc = "An ominous candle";
+	lit = 1
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"OW" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 8
+	},
+/obj/effect/turf_decal/weather/dirt{
+	dir = 4
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"Pu" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 10
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"PL" = (
+/obj/item/candle/infinite{
+	desc = "An ominous candle";
+	lit = 1
+	},
+/obj/effect/turf_decal/weather/dirt{
+	dir = 10
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
 "PR" = (
 /obj/machinery/door/airlock/external{
 	name = "Ready Room";
@@ -15722,6 +15937,30 @@
 	},
 /turf/open/floor/plasteel/dark,
 /area/awaymission/snowdin/cave)
+"Qj" = (
+/obj/structure/flora/rock/icy,
+/turf/open/floor/plating/dirt/dark,
+/area/awaymission/snowdin/cave/cavern)
+"Qo" = (
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 9
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"Qz" = (
+/obj/structure/flora/rock/pile/icy,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 9
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"QF" = (
+/obj/effect/decal/cleanable/blood/splatter,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 9
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
 "QX" = (
 /obj/effect/baseturf_helper/asteroid/snow,
 /obj/effect/turf_decal/tile/neutral,
@@ -15730,6 +15969,80 @@
 	},
 /turf/open/floor/plasteel,
 /area/awaymission/snowdin/post/mining_main)
+"QY" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 6
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"Rc" = (
+/obj/effect/decal/cleanable/blood/old,
+/obj/item/candle/infinite{
+	desc = "An ominous candle";
+	lit = 1
+	},
+/turf/open/floor/plating/dirt/dark,
+/area/awaymission/snowdin/cave/cavern)
+"Rj" = (
+/obj/effect/turf_decal/weather/snow/corner,
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"Rk" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 9
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"Rn" = (
+/obj/effect/decal/cleanable/blood/innards,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 1
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"Ry" = (
+/obj/item/picket_sign{
+	desc = "Miners Shaft-____, the rest is splattered in blood. This doesn't feel right";
+	label = "bloody picket sign";
+	name = "bloody picket sign"
+	},
+/turf/open/floor/grass/snow,
+/area/awaymission/snowdin/outside)
+"RR" = (
+/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 4
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"Sa" = (
+/obj/structure/table/wood,
+/turf/open/floor/plating/dirt/dark,
+/area/awaymission/snowdin/cave/cavern)
+"Sb" = (
+/obj/effect/decal/cleanable/blood/tracks,
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"Sl" = (
+/obj/structure/flora/rock/pile/icy,
+/obj/effect/turf_decal/weather/dirt,
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"SG" = (
+/obj/effect/turf_decal/weather/dirt,
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"SP" = (
+/obj/structure/table/wood,
+/obj/item/book{
+	desc = "As you slip open the cover, a chill rolls down your spine... You can't make out anything it says.";
+	name = "The Nomical of Snow"
+	},
+/obj/effect/turf_decal/weather/dirt{
+	dir = 9
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
 "SX" = (
 /obj/machinery/door/airlock/external/glass,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper{
@@ -15737,12 +16050,114 @@
 	},
 /turf/open/floor/plating,
 /area/awaymission/snowdin/post/mining_main)
+"Tg" = (
+/obj/structure/flora/rock/pile/icy,
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"To" = (
+/obj/effect/mob_spawn/human/corpse{
+	outfit = /datum/outfit/dead_cultist
+	},
+/obj/effect/turf_decal/weather/dirt{
+	dir = 6
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"TI" = (
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"TX" = (
+/obj/effect/decal/cleanable/blood/old,
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"Ua" = (
+/obj/item/candle/infinite{
+	desc = "An ominous candle";
+	lit = 1
+	},
+/obj/effect/turf_decal/weather/dirt{
+	dir = 8
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"Uh" = (
+/turf/open/floor/plating/dirt/dark,
+/area/awaymission/snowdin/cave/cavern)
+"UP" = (
+/obj/effect/decal/cleanable/blood/gibs/human/body,
+/obj/item/candle/infinite{
+	desc = "An ominous candle";
+	lit = 1
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"Va" = (
+/obj/effect/decal/cleanable/blood/splatter,
+/turf/open/floor/plating/dirt/dark,
+/area/awaymission/snowdin/cave/cavern)
+"Vm" = (
+/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 8
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"Vx" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 5
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"Vz" = (
+/obj/effect/decal/cleanable/blood/old,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 5
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
 "VW" = (
 /obj/machinery/door/airlock/external/glass,
 /obj/structure/fans/tiny,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper,
 /turf/open/floor/plating,
 /area/awaymission/snowdin/post/mining_dock)
+"Wn" = (
+/obj/structure/flora/rock/pile/icy,
+/turf/open/floor/plating/dirt/dark,
+/area/awaymission/snowdin/cave/cavern)
+"Wv" = (
+/obj/structure/flora/rock/icy,
+/obj/effect/turf_decal/weather/dirt{
+	dir = 9
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"WH" = (
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 4
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"WX" = (
+/obj/effect/decal/cleanable/blood/tracks,
+/obj/effect/turf_decal/weather/dirt,
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"XB" = (
+/turf/open/floor/grass/snow,
+/area/awaymission/snowdin/outside)
+"XG" = (
+/obj/item/candle/infinite{
+	desc = "An ominous candle";
+	lit = 1
+	},
+/turf/open/floor/plating/dirt/dark,
+/area/awaymission/snowdin/cave/cavern)
+"Yf" = (
+/obj/structure/flora/grass/both,
+/turf/open/floor/grass/snow,
+/area/awaymission/snowdin/outside)
 "Yn" = (
 /obj/machinery/door/airlock/external/glass,
 /obj/effect/mapping_helpers/airlock/cyclelink_helper{
@@ -15750,6 +16165,41 @@
 	},
 /turf/open/floor/plating,
 /area/awaymission/snowdin/post/garage)
+"YF" = (
+/obj/item/candle/infinite{
+	desc = "An ominous candle";
+	lit = 1
+	},
+/obj/effect/turf_decal/weather/dirt{
+	dir = 5
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"YO" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 8
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"YS" = (
+/obj/effect/decal/cleanable/blood/gibs/up,
+/turf/open/floor/plating/dirt/dark,
+/area/awaymission/snowdin/cave/cavern)
+"YZ" = (
+/obj/effect/turf_decal/weather/snow/corner{
+	dir = 8
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"Zr" = (
+/obj/effect/turf_decal/weather/dirt{
+	dir = 1
+	},
+/turf/open/floor/plating/ashplanet/rocky,
+/area/awaymission/snowdin/cave/cavern)
+"ZC" = (
+/turf/open/floor/plating/asteroid/snow,
+/area/awaymission/snowdin/cave/cavern)
 
 (1,1,1) = {"
 aa
@@ -16234,8 +16684,8 @@ ac
 ac
 ac
 ac
-ac
-ac
+NO
+NO
 ac
 ac
 ac
@@ -16482,20 +16932,20 @@ ac
 ac
 ac
 ac
+NO
 ac
 ac
 ac
 ac
 ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
 ac
 ac
 ac
@@ -16739,21 +17189,21 @@ ac
 ac
 ac
 ac
+NO
+NO
 ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
 ac
 ac
 ac
@@ -16995,24 +17445,24 @@ ac
 ac
 ac
 ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+PL
+Uh
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
 ac
 ac
 ac
@@ -17252,25 +17702,25 @@ ac
 ac
 ac
 ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
-ac
+NO
+NO
+Ke
+Pu
+NO
+Ng
+RR
+Sb
+Vm
+SG
+Uh
+Uh
+NO
+NO
+NO
+NO
+NO
+NO
+NO
 ac
 ac
 ac
@@ -17508,26 +17958,26 @@ ae
 ae
 ae
 ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
+NO
+NO
+TI
+TI
+TI
+WX
+Le
+Wn
+NO
+NO
+Sb
+YO
+YO
+Ua
+Tg
+TI
+NO
+NO
+NO
+NO
 ae
 ae
 ae
@@ -17765,26 +18215,26 @@ ae
 ae
 ae
 ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
+NO
+Qz
+TI
+OT
+NO
+NO
+NO
+NO
+NO
+Uh
+Zr
+Sb
+TX
+TI
+TI
+TI
+SG
+NO
+NO
+NO
 ae
 ae
 ae
@@ -18022,27 +18472,27 @@ ae
 ae
 ae
 ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
+NO
+NO
+TI
+TI
+NO
+NO
+NO
+NO
+NO
+Rk
+TI
+TI
+TX
+TI
+Ng
+TI
+SG
+Uh
+NO
+NO
+NO
 ae
 ae
 ae
@@ -18280,27 +18730,27 @@ ae
 ae
 ae
 ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
+NO
+NO
+TI
+xn
+NO
+NO
+Qj
+Wv
+TI
+TI
+TI
+Ng
+QY
+Uh
+Zr
+sT
+Pu
+Uh
+NO
+NO
+NO
 ae
 ae
 ae
@@ -18536,28 +18986,28 @@ ae
 ae
 ae
 ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
+NO
+NO
+NO
+TI
+LR
+NO
+NO
+Sa
+Zr
+TI
+TI
+QY
+Uh
+Uh
+Mu
+TI
+TI
+SG
+Uh
+Uh
+NO
+NO
 ae
 ae
 ae
@@ -18793,28 +19243,28 @@ ae
 ae
 ae
 ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
+NO
+NO
+NO
+TI
+TI
+NO
+NO
+SP
+TI
+TI
+QY
+Uh
+Uh
+Uh
+Zr
+TI
+TI
+TI
+Pu
+Uh
+NO
+NO
 ae
 ae
 ae
@@ -19049,29 +19499,29 @@ ae
 ae
 ae
 ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
+NO
+NO
+NO
+NO
+TI
+OT
+NO
+NO
+NP
+TI
+SG
+Uh
+Uh
+Uh
+Rk
+TI
+TI
+TI
+TI
+SG
+Uh
+NO
+NO
 ae
 ae
 ae
@@ -19305,31 +19755,31 @@ ae
 ae
 ae
 ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
+NO
+NO
+NO
+NO
+NO
+TI
+NO
+NO
+Uh
+Zr
+OO
+QY
+Uh
+Uh
+QF
+TI
+Tg
+Ng
+TI
+TI
+TI
+Pu
+NO
+NO
+NO
 ae
 ae
 ae
@@ -19565,28 +20015,28 @@ ae
 ae
 ae
 ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
+NO
+NO
+TI
+NO
+NO
+Uh
+Zr
+SG
+Uh
+Uh
+Rk
+OT
+TI
+QY
+Wn
+Zr
+TI
+TI
+JQ
+NO
+NO
+NO
 ae
 ae
 ae
@@ -19821,29 +20271,29 @@ ae
 ae
 ae
 ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
+NO
+NO
+TI
+Rj
+NO
+NO
+Rk
+TI
+Ng
+OW
+Ua
+TI
+TI
+QY
+XG
+Uh
+Rn
+TI
+QY
+Qj
+NO
+NO
+NO
 ae
 ae
 ae
@@ -20077,30 +20527,30 @@ ae
 ae
 ae
 ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
+NO
+NO
+TI
+Mp
+NO
+NO
+NO
+Zr
+Sl
+Uh
+Rc
+Vz
+Ng
+To
+Uh
+Uh
+MB
+TI
+QY
+Uh
+NO
+NO
+NO
+NO
 ae
 ae
 ae
@@ -20334,28 +20784,28 @@ ae
 ae
 ae
 ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
+NO
+ZC
+NY
+NO
+NO
+NO
+Qj
+Vx
+TI
+Pu
+Uh
+Uh
+Uh
+NN
+Uh
+Uh
+Zr
+SG
+Uh
+Uh
+NO
+NO
 ae
 ae
 ae
@@ -20590,28 +21040,28 @@ ae
 ae
 ae
 ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
+NO
+NO
+ZC
+NO
+NO
+NO
+NO
+Uh
+Uh
+Vx
+OT
+YO
+jE
+Uh
+ME
+Uh
+OL
+TI
+OT
+Pu
+Uh
+NO
 ae
 ae
 ae
@@ -20847,28 +21297,28 @@ ae
 ae
 ae
 ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
+NO
+ZC
+Qo
+NO
+NO
+NO
+NO
+NO
+Uh
+Uh
+Zr
+TI
+SG
+YS
+Uh
+Uh
+Vx
+TI
+TI
+QY
+Uh
+NO
 ae
 ae
 ae
@@ -21102,30 +21552,30 @@ ae
 ae
 ae
 ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
+NO
+NO
+NO
+YZ
+WH
+NO
+NO
+NO
+NO
+NO
+Uh
+Uh
+Vx
+UP
+TI
+YO
+jE
+Uh
+Uh
+YF
+SG
+Uh
+Uh
+NO
 ae
 ae
 ae
@@ -21358,31 +21808,31 @@ ae
 ae
 ae
 ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
+Mz
+NO
+NO
+ZC
+Ma
+ZC
+Tg
+NO
+NO
+NO
+NO
+NO
+Uh
+Uh
+Zr
+OT
+TI
+TI
+Pu
+XG
+Uh
+LB
+Uh
+Uh
+NO
 ae
 ae
 ae
@@ -21615,32 +22065,32 @@ ae
 ae
 ae
 ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
+Mz
+Mz
+XB
+KC
+TI
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+tM
+Ng
+mA
+JT
+Ng
+YO
+Nl
+Va
+Uh
+Uh
+NO
+NO
 ae
 ae
 ae
@@ -21871,33 +22321,33 @@ af
 ae
 ae
 ae
+Mz
+Mz
+Yf
+XB
+Nb
+Mz
+NO
 ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+Uh
+Uh
+Wn
+LB
+Uh
+Uh
+Uh
+Qj
+NO
+NO
 ae
 ae
 ae
@@ -22128,33 +22578,33 @@ af
 ae
 ae
 ae
+Mz
+Ry
+XB
+XB
+Mz
+Mz
 ae
 ae
 ae
 ae
 ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+Uh
+Uh
+Uh
+Uh
+Uh
+NO
+NO
+NO
 ae
 ae
 ae
@@ -22388,6 +22838,8 @@ af
 ag
 af
 af
+XB
+Mz
 ae
 ae
 ae
@@ -22398,19 +22850,17 @@ ae
 ae
 ae
 ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
-ae
+NO
+NO
+NO
+NO
+NO
+NO
+NO
+Uh
+NO
+NO
+NO
 ae
 ae
 ae
@@ -22645,6 +23095,7 @@ af
 af
 af
 am
+Mz
 ae
 ae
 ae
@@ -22662,10 +23113,9 @@ ae
 ae
 ae
 ae
-ae
-ae
-ae
-ae
+NO
+NO
+NO
 ae
 ae
 ae
