@@ -332,6 +332,28 @@ NOTE: there are two lists of areas in the end of this file: centcom and station 
 	name = "Shuttle Hall"
 	icon_state = "white"
 
+//Maintenance - Prison
+
+/area/maintenance/prison
+	name = "Prison Maintenance"
+	icon_state = "prison_maintenance"
+
+/area/maintenance/prison/fore
+	name = "Prison Fore Maintenance"
+	icon_state = "prison_maintenance"
+
+/area/maintenance/prison/starboard
+	name = "Prison Starboard Maintenance"
+	icon_state = "prison_maintenance"
+
+/area/maintenance/prison/aft
+	name = "Prison Aft Maintenance"
+	icon_state = "prison_maintenance"
+
+/area/maintenance/prison/port
+	name = "Prison Port Maintenance"
+	icon_state = "prison_maintenance"
+
 //Maintenance - Generic
 
 /area/maintenance/arrivals/north
@@ -1429,13 +1451,9 @@ NOTE: there are two lists of areas in the end of this file: centcom and station 
 	name = "Prison Wing"
 	icon_state = "sec_prison"
 
-/area/security/prison/toilet //radproof
-	name = "Prison Toilet"
-	icon_state = "sec_prison_safe"
-
-/area/security/prison/safe //radproof
+/area/security/prison/cells
 	name = "Prison Wing Cells"
-	icon_state = "sec_prison_safe"
+	icon_state = "prison_cells"
 
 /area/security/prison/upper
 	name = "Upper Prison Wing"
